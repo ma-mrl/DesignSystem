@@ -1,0 +1,163 @@
+body {
+    font-family: 'Quattrocento', serif;
+    font-size: 20px; 
+    background-color: #FFE6A7;
+    color: #0F0905;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    color: #432818;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 30px;
+    color: #432818;
+}
+
+.container {
+    border: 2px solid #0f0905;
+    padding: 10px;
+    margin: 10px auto;
+    background-color: hsla(42.86, 36.84%, 92.55%, 0.5);
+}
+
+/* Color Palette style */
+
+.color-container {
+    width: 100%;
+}
+
+.color-card {
+    display: inline-block;
+    width: 32%;
+    margin: 20px auto;
+    text-align: center;
+    min-height: 100px;
+    border: 1px solid #0F0905;
+    border-radius: 5px;
+}
+
+.color-name {
+    font-weight: bold;
+}
+
+.color-hex {
+    text-transform: uppercase;
+}
+
+#smoky-black {
+    background-color: #0F0905;
+    color: #ffffff;
+}
+
+#bistre {
+    background-color: #432818;
+    color: #ffffff;
+}
+
+#falu-red {
+    background-color: #6F1D1B;
+    color: #ffffff;
+}
+
+#brown {
+    background-color: #99582A;
+    color: #0F0905;
+}
+
+#lion {
+    background-color: #BB9457;
+    color: #0F0905;
+}
+
+#peach {
+    background-color: #FFE6A7;
+    color: #0F0905;
+}
+
+/* Font styles */
+
+.font-container {
+    width: 100%;
+}
+
+.font-card {
+    display: inline-block;
+    vertical-align: top;
+    width: 47%;
+    height: 300px;
+    margin: 20px auto;
+    padding: 0 10px;;
+    background-color: #BB9457;
+    color: #432818;
+    border: 3px dotted #99582A;
+    text-align: justify;
+}
+
+.font-card h3 {
+    text-align: center;
+    color: #6F1D1B;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#playfair-source-sans h3 {
+    font-family: "Playfair Display", serif;
+}
+
+#playfair-source-sans p {
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+#oswald-quattrocento h3 {
+    font-family: 'Oswald', sans-serif;
+}
+
+#oswald-quattrocento p {
+    font-family: 'Quattrocento', serif;
+}
+
+#sacramento-alice h3 {
+    font-family: 'Sacramento', cursive;
+}
+
+#sacramento-alice p {
+    font-family: 'Alice', serif;
+}
+
+#ultra-slabo h3 {
+    font-family: 'Ultra', serif;
+}
+
+#ultra-slabo p {
+    font-family: 'Slabo 27px', serif;
+}
+
+/* Text styles */
+
+.style-container {
+    width: 100%;
+}
+
+.style-card {
+    vertical-align: top;
+    width: 32%;
+    text-align: left;
+    height: 200px;
+}
+
+.style-card h1 {
+    text-align: left;
+}
+
